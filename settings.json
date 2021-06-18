@@ -1,7 +1,7 @@
 {
-  "openPhases" : ["phaseBugReporting"],
+  "openPhases" : ["phaseModeration"],
   "phaseBugReporting": "pe",
-  "phaseTeamResponse": "pe-dev-response",
+  "phaseTeamResponse": "pe",
   "phaseTesterResponse": "pe",
-  "phaseModeration": "pe-tutor-moderation"
+  "phaseModeration": "pe"
 }
