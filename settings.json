@@ -1,6 +1,6 @@
 {
-  "openPhases" : ["phaseTesterResponse"],
-  "phaseBugReporting": "pe_test",
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "pe",
   "phaseTeamResponse": "pe_team_res",
   "phaseTesterResponse": "pe_tester_res",
   "phaseModeration": "pe_mod"
